@@ -1,0 +1,6 @@
+*.comp
+*.o
+asm
+pipesim
+.vscode
+.out
